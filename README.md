@@ -7,10 +7,11 @@ Syllabus covered: Unit 1 (arrays, stacks, recursion) and Unit 2 (queues, linked 
 ### Tonight (viva is tomorrow) — ~2 hours
 1. `viva/01-VIVA-ANSWERS.md` — every question you were told they ask, answered in speakable form. Read it fully, out loud.
 2. `viva/02-NIGHT-BEFORE-CHEATSHEET.md` — last 20 minutes before you walk in.
-3. Skim `lab/08_singly_linked_list.c` and `lab/02_stack_array.c`. If you can write those two from memory, the viva code questions are handled.
+3. `viva/03-MORE-VIVA-QUESTIONS.md` — the forwarded questions: bytes in a doubly LL node, `front > rear`, array vs linked list, real-life applications of LL/array/queue, priority queue, and the kth-position theory.
+4. Skim `lab/08_singly_linked_list.c` and `lab/02_stack_array.c`. If you can write those two from memory, the viva code questions are handled.
 
 ### Before the lab exam
-Work through `lab/` in number order. Type each one yourself once — do not just read it.
+Files 19 and 20 are the **Assignment No. 1 (TCS 301)** question paper, answered in order — those 16 questions are the most likely to reappear in the practical. Work through `lab/` in number order. Type each one yourself once — do not just read it.
 
 ## Files
 
@@ -34,6 +35,8 @@ Work through `lab/` in number order. Type each one yourself once — do not just
 | `lab/16_queue_double_pointers.c` | 22 b | queue using double pointers |
 | `lab/17_monotonic_stack.c` | viva | monotonic stack, next greater/smaller, stock span ⭐ |
 | `lab/18_recursion_hanoi_polynomial.c` | Unit 1, 2 | recursion, tail recursion, Tower of Hanoi, polynomial addition, sparse matrix |
+| `lab/19_assignment_kth_linkedlists.c` | Assignment Q1-9 | insert/delete at kth position in singly, circular, doubly and doubly-circular LL |
+| `lab/20_assignment_stack_queue_pq.c` | Assignment Q10-16 | stack/queue via array and LL, circular queue, **priority queue** both ways |
 
 ## Running the programs
 
