@@ -2,7 +2,8 @@
    FIFO - insert at REAR, delete at FRONT.
    Empty: front == -1 || front > rear      Full: rear == MAX-1
    NOTE: this linear queue suffers FALSE OVERFLOW - see 04_circular_queue.c
-*/
+*/ 
+//done
 #include <stdio.h>
 #define MAX 5
 

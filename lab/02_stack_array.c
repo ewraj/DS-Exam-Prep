@@ -3,6 +3,7 @@
    Empty: top == -1      Full: top == MAX-1
    push/pop/peek all O(1)
 */
+//done  
 #include <stdio.h>
 #define MAX 5
 

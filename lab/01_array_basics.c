@@ -3,6 +3,7 @@
    16d store N and reverse   | 17a maximum element | 17b dynamic array
    Compile: gcc 01_array_basics.c -o a && ./a
 */
+//done  
 #include <stdio.h>
 #include <stdlib.h>
 
